@@ -21,5 +21,5 @@ The script uses a shift cipher to encrypt and decrypt messages. Each character i
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/PixelPilot1/Py-Encipher.git
-   cd your-repository
+   cd Py-Encipher
   
